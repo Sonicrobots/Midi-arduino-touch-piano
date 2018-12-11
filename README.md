@@ -1,1 +1,9 @@
-# Midi-arduino-touch-piano
+# Midi Arduino Touch Piano
+
+This sketch realizes a simple USB Piano with no additional circuitery.
+It uses the build in USBMIDI possibility of the Arduino Leonardo
+Simply connect wires to Analog in A0 - A6 and start playing! 
+
+![Optional Text](../master/myFolder/image.png)
+
+(C) Moritz Simon Geist 2018 www.sonicrobots.com
